@@ -6,7 +6,7 @@ nav_order: 1
 
 # Corporate Bond Guide
 
-A practical, desk-level study guide for Penn builders, Wharton quantitative finance students, and candidates preparing for credit research, leveraged finance, and fixed-income interviews. It covers the core analytical toolkit: price/yield mechanics, duration and convexity, credit spread decomposition, ratings, capital structure and seniority, covenants, default and recovery, and relative value — with clean math and zero fluff.
+A practical, desk-level study guide for builders and interview candidates preparing for credit research, leveraged finance, and fixed-income interviews. It covers the core analytical toolkit: price/yield mechanics, duration and convexity, credit spread decomposition, ratings, capital structure and seniority, covenants, default and recovery, and relative value — with clean math and zero fluff.
 
 ## How to use this guide
 

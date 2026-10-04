@@ -1,6 +1,6 @@
 # Corporate Bond Guide
 
-A practical corporate bond and credit study guide for Penn builders, Wharton QF students, and credit/FI desk interview prep — covering price/yield mechanics, duration and convexity, credit spreads, ratings, capital structure, and default/recovery with clean math and desk-level rigor.
+A practical corporate bond and credit study guide for builders and credit/FI desk interview candidates — covering price/yield mechanics, duration and convexity, credit spreads, ratings, capital structure, and default/recovery with clean math and desk-level rigor.
 
 **Live site:** https://cliffweng.github.io/corporate-bond-guide/
 *(Also accessible via custom domain path: [cliffweng.com/corporate-bond-guide/](https://cliffweng.com/corporate-bond-guide/))*
@@ -53,7 +53,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). In short: one topic per file, keep it un
 
 These are the product locks this guide was built against — echoed here so future contributors don't accidentally relitigate them:
 
-- **Audience**: Penn CS+stats+econ builders + Wharton QF students + credit/FI desk interview prep. Bias toward credit/FI interview rigor (spreads, duration, covenants) over full rates-desk modeling or structured credit (CDOs).
+- **Audience**: builders and interview candidates preparing for credit/FI desk interviews. Bias toward credit/FI interview rigor (spreads, duration, covenants) over full rates-desk modeling or structured credit (CDOs).
 - **Time-boxed**: every topic is readable in 10 minutes or less. Depth is balanced with interview scannability; further reading links point to standard fixed-income texts (Fabozzi, Tuckman & Serrat).
 - **Learning + interview prep in one page**: each topic pairs core bond/credit mechanics with interview questions, rather than splitting them into separate tracks.
 - **Real links only**: every YouTube link is verified to exist (via oEmbed) before being added. No invented URLs, ever. A few topics intentionally have no video where no verified, on-topic one exists.
